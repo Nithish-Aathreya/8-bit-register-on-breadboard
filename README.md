@@ -1,4 +1,4 @@
-# 8-bit-register-on-breadboard
+# Register and Bus Lane Data Transfer
 This project demonstrates the mechanism of how a register interacts with bus lanes by receiving data, storing it and transmitting it back when requested by other process.
 Components Used:
 1. 7805 Voltage Regulator: Ensures a stable 5V DC supply to power the circuit.

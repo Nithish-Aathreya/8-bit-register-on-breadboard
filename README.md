@@ -1,4 +1,7 @@
 # 8-bit-register-on-breadboard
+Register and Bus Circuit
+![image](https://github.com/user-attachments/assets/be379464-573b-474b-b409-05ae12fa6263)
+
 
 
 
